@@ -1,0 +1,40 @@
+{
+    "name":"CWBE",
+    "short_name":"Venta de ropa online",
+    "start_url":"index.html",
+    "background_color":"#808080",
+    "theme_color":"#808080",
+    "display": "standalone",
+    "orientation":"portrait",
+    "icons": [
+        {
+           "src": "img/icons/icon-70x70.jpg",
+           "type": "img/jpg",
+           "sizes": "70x70"
+       },
+       {
+           "src": "img/icons/icon-100x100.jpg",
+           "type": "img/jpg",
+           "sizes": "100x100"
+       },
+       {
+            "src": "img/icons/icon-300x300.jpg",
+            "type": "img/jpg",
+            "sizes": "300x300"
+       },
+       {
+           "src": "img/icons/icon-700x700.jpg",
+           "type": "img/jpg",
+           "sizes": "700x700"
+       },
+      
+       {
+           "src": "img/icons/icon-1000x1000.jpg",
+           "type": "img/jpg",
+           "sizes": "1000x1000"
+
+        }
+    
+    ]
+
+}

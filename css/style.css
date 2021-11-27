@@ -1,0 +1,20 @@
+html, body {
+    height: 100%;
+    background-color: #717179;
+}
+
+h1,h2,h3,h4,h5 {
+    color: rgba(250, 249, 249, 0.925);
+}
+
+hr {
+    background-color: rgb(255, 255, 255);
+}
+
+p{
+    color: #fffafa;
+}
+
+ul{
+    color: rgba(250, 249, 249, 0.925);
+}
