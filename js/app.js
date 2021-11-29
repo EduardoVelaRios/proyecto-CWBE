@@ -1,6 +1,6 @@
    var url=window.location.href;
-   var ubicacionSw='/Ejemplo-PWA/sw.js';
-   
+   var ubicacionSw='/CWBE/sw.js';
+
    if ( navigator.serviceWorker ) {
     if(url.includes('localhost')){
     ubicacionSw='/sw.js';

@@ -25,7 +25,7 @@ self.addEventListener('install', evento =>{
 
              
             ]);
-        });
+        }); 
         
 
 evento.waitUntil(Promise.all([promesa ]));
