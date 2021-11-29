@@ -1,6 +1,6 @@
    var url=window.location.href;
  
-   var ubicacionSw='/proyecto-CWBE.git /sw.js';
+   var ubicacionSw='/EduardoVelaRios/proyecto-CWBE /sw.js';
    if ( navigator.serviceWorker ) {
    
     if(url.includes('localhost')){
