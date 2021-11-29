@@ -7,8 +7,8 @@ self.addEventListener('install', evento =>{
     const promesa =caches.open(CACHE)
     .then(cache=>{
          return cache.addAll([
-             "/",
-             "/index.html",
+             //"/",
+             "index.html",
              "css/style.css",
              "img/CWBE.png",
              "img/no-img.jpeg",
