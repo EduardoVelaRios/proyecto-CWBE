@@ -1,6 +1,6 @@
    var url=window.location.href;
  
-   var ubicacionSw='/CWBE/sw.js';
+   var ubicacionSw='/proyecto-CWBE.git /sw.js';
    if ( navigator.serviceWorker ) {
    
     if(url.includes('localhost')){
