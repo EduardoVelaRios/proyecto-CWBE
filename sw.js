@@ -7,11 +7,19 @@ self.addEventListener('install', evento =>{
     const promesa =caches.open(CACHE)
     .then(cache=>{
          return cache.addAll([
-             "/",
-             "/index.html",
+             //"/",
+             "index.html",
              "css/style.css",
              "img/CWBE.png",
              "img/no-img.jpeg",
+             "img/icons",
+             "img/img1.jpeg",
+             "img/img2.jpeg",
+             "img/img3.jpeg",
+             "img/img4.jpeg",
+             "img/img5.jpeg",
+             "img/img6.jpeg",
+             "img/img7.jpeg",
              "js/app.js",
              "pages/offline.html"
 
